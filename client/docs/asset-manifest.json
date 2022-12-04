@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ether-donation-dapp/static/css/main.99228e7c.css",
+    "main.js": "/ether-donation-dapp/static/js/main.408b9383.js",
+    "index.html": "/ether-donation-dapp/index.html",
+    "main.99228e7c.css.map": "/ether-donation-dapp/static/css/main.99228e7c.css.map",
+    "main.408b9383.js.map": "/ether-donation-dapp/static/js/main.408b9383.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99228e7c.css",
+    "static/js/main.408b9383.js"
+  ]
+}
